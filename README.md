@@ -1,2 +1,2 @@
 # Graduation-Card
-Grad cards...
+This is for Zahria and Teyha: two W friends of mine.
