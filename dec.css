@@ -20,7 +20,7 @@ nav img{
 section{
     height: 100vh;
     
-    font-family: 'Lucida Handwriting' , 'Apple Chancery' , 'Brush Script';
+    font-family: 'Lucida Handwriting', 'Avenir Next Heavy', 'Proxima Nova Extra Bold', 'League Spartan', -apple-system, 'Apple Chancery' , 'Brush Script';
     font-size: 75px;
     align-items: center;
 
